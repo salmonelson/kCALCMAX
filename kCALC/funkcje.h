@@ -7,10 +7,10 @@
 
 struct Meal {
     std::string name;
-    double kcal;
+    double kcal=0;
     double protein=0;
-    double carbs;
-    double fat;
+    double carbs=0;
+    double fat=0;
     std::string datetime;
 };
 
@@ -26,6 +26,12 @@ public:
     void addMeal(const Meal& meal);
     void showSummary();
     void showMeals();
+
+    void setDailyTarget(double target) { dailyTarget = target; }
+    void clearMeals() { mealsToday.clear(); }
+
+    const std::vector<Meal>& getMealsToday() const;
+    double getDailyTarget() const;
 };
 
 std::string currentDateTime();
@@ -34,5 +40,7 @@ std::vector<Meal> loadRecipes();
 void displayRecipes(const std::vector<Meal>& recipes);
 Meal inputMeal();
 void menu();
+bool get_numeric_input(char* buf, int size, int y, int x);
+std::string normalize_ascii(const std::string& input);
 
 #endif

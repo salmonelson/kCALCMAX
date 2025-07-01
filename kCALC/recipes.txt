@@ -1,2 +1,140 @@
-owsianka kurwica nawaˆnica
-1200 70 200 20
+Jajecznica na masle
+320 20 2 26
+Kanapka z szynka i serem
+280 14 32 10
+Owsianka z bananem i orzechami
+410 12 60 13
+Kurczak z ryzem i warzywami
+540 38 65 12
+Salatka grecka
+220 6 12 16
+Jogurt naturalny z musli
+190 8 28 4
+Baton proteinowy
+210 20 18 7
+Banan
+110 1 25 0
+Orzechy wloskie (30g)
+200 5 4 19
+Zupa pomidorowa z ryzem
+180 4 32 3
+Makaron z pesto i kurczakiem
+600 32 70 20
+Tost z awokado i jajkiem
+350 13 32 18
+Serek wiejski z rzodkiewka
+140 13 4 7
+Grzanka z maslem orzechowym
+180 6 18 10
+Kawa z mlekiem
+60 3 8 2
+Herbata z cytryna
+10 0 2 0
+Czekolada gorzka (20g)
+110 2 10 7
+Sok pomaranczowy (200ml)
+90 2 20 0
+Twarog z miodem
+220 18 18 7
+Paluszki slone (30g)
+120 3 20 2
+Omlet z warzywami
+250 16 8 16
+Placki ziemniaczane
+320 7 45 13
+Pizza margherita (1/4)
+400 15 50 15
+Kurczak curry z ryzem
+520 35 65 12
+Gulasz wieprzowy
+480 32 18 28
+Zupa ogorkowa
+150 4 20 5
+Kasza gryczana z warzywami
+270 7 55 2
+Pierogi ruskie (5 szt)
+350 12 60 7
+Kotlety mielone (2 szt)
+420 28 12 28
+Ziemniaki gotowane (200g)
+140 3 32 0
+Surowka z marchewki
+80 1 18 0
+Sledz w smietanie
+210 10 6 16
+Sniadaniowa tortilla
+330 14 38 13
+Chleb razowy (2 kromki)
+140 5 28 1
+Szynka drobiowa (3 plastry)
+60 9 1 2
+Ser zolty (2 plastry)
+120 8 1 10
+Jablko
+90 0 22 0
+Gruszka
+100 1 26 0
+Winogrona (100g)
+70 1 17 0
+Mandarynka
+40 1 10 0
+Jogurt pitny (200ml)
+120 6 18 3
+Kefir (200ml)
+90 7 10 3
+Serek homogenizowany
+160 8 20 5
+Musli z mlekiem
+220 7 38 5
+Budyn waniliowy
+180 5 32 4
+Kisiel owocowy
+120 0 28 0
+Chipsy ziemniaczane (30g)
+160 2 15 10
+Paluszki rybne (3 szt)
+210 10 18 11
+Fasolka po bretonsku
+350 18 40 12
+Leczo warzywne
+180 5 28 5
+Kuskus z warzywami
+210 6 42 1
+Kasza jaglana z owocami
+260 6 54 2
+Tosty francuskie (2 szt)
+320 10 38 14
+Nalesniki z serem (2 szt)
+380 16 52 12
+Ryz z jablkiem i cynamonem
+290 5 62 2
+Makaron z sosem pomidorowym
+340 10 65 3
+Lasagne warzywna
+420 14 60 14
+Kurczak pieczony (100g)
+180 22 0 9
+Indyk w sosie wlasnym
+210 28 2 9
+Karkowka z grilla (100g)
+320 20 0 26
+Boczek smazony (2 plastry)
+180 6 0 16
+Parowki drobiowe (2 szt)
+160 10 2 12
+Jajko gotowane
+80 7 1 5
+Serek topiony (30g)
+90 3 2 7
+Pieczywo chrupkie (2 szt)
+60 2 12 0
+Mleko 2% (200ml)
+100 7 10 4
+Kakao na mleku
+140 6 18 5
+Woda mineralna (500ml)
+0 0 0 0
+Cola (200ml)
+84 0 21 0
+Snickers
+200 1 20 30

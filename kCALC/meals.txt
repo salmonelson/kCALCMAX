@@ -1,3 +1,1314 @@
-2025-06-14 15:40
-owsianka kurwica nawaˆnica
-1200 70 200 20
+2025-05-01 07:13
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-01 10:01
+Banan
+110 1 25 0
+2025-05-01 11:45
+Kawa z mlekiem
+60 3 8 2
+2025-05-01 13:18
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-01 15:22
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-01 16:45
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-01 19:33
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-02 08:05
+Jajecznica na masle
+320 20 2 26
+2025-05-02 09:50
+Herbata z cytryna
+10 0 2 0
+2025-05-02 12:27
+Salatka grecka
+220 6 12 16
+2025-05-02 13:55
+Paluszki slone (30g)
+120 3 20 2
+2025-05-02 15:41
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-02 18:12
+Tost z awokado i jajkiem
+350 13 32 18
+2025-05-03 07:43
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-03 10:55
+Kawa z mlekiem
+60 3 8 2
+2025-05-03 11:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-03 13:36
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-03 16:59
+Baton proteinowy
+210 20 18 7
+2025-05-03 18:10
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-03 20:11
+Twarog z miodem
+220 18 18 7
+2025-05-04 08:29
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-04 09:55
+Banan
+110 1 25 0
+2025-05-04 11:48
+Zupa pomidorowa z ryzem
+180 4 32 3
+2025-05-04 13:10
+Grzanka z maslem orzechowym
+180 6 18 10
+2025-05-04 15:22
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-04 16:30
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-04 18:37
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-05 07:03
+Tost z awokado i jajkiem
+350 13 32 18
+2025-05-05 09:57
+Herbata z cytryna
+10 0 2 0
+2025-05-05 11:20
+Baton proteinowy
+210 20 18 7
+2025-05-05 13:09
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-05 14:45
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-05 16:21
+Paluszki slone (30g)
+120 3 20 2
+2025-05-05 19:08
+Twarog z miodem
+220 18 18 7
+2025-05-06 08:11
+Jajecznica na masle
+320 20 2 26
+2025-05-06 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-06 12:34
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-06 13:55
+Banan
+110 1 25 0
+2025-05-06 15:12
+Baton proteinowy
+210 20 18 7
+2025-05-06 16:40
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-06 18:44
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-07 07:32
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-07 09:10
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-07 10:59
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-07 13:41
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-07 15:30
+Paluszki slone (30g)
+120 3 20 2
+2025-05-07 17:08
+Baton proteinowy
+210 20 18 7
+2025-05-07 20:03
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-08 08:07
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-08 09:45
+Herbata z cytryna
+10 0 2 0
+2025-05-08 12:13
+Salatka grecka
+220 6 12 16
+2025-05-08 13:30
+Baton proteinowy
+210 20 18 7
+2025-05-08 15:36
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-08 16:50
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-08 18:29
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-09 07:19
+Jajecznica na masle
+320 20 2 26
+2025-05-09 09:55
+Banan
+110 1 25 0
+2025-05-09 10:22
+Kawa z mlekiem
+60 3 8 2
+2025-05-09 13:17
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-09 14:40
+Grzanka z maslem orzechowym
+180 6 18 10
+2025-05-09 16:53
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-09 19:41
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-10 08:15
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-10 09:50
+Baton proteinowy
+210 20 18 7
+2025-05-10 11:02
+Kawa z mlekiem
+60 3 8 2
+2025-05-10 13:44
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-10 15:30
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-10 17:10
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-10 20:19
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-11 07:55
+Tost z awokado i jajkiem
+350 13 32 18
+2025-05-11 09:40
+Herbata z cytryna
+10 0 2 0
+2025-05-11 11:15
+Baton proteinowy
+210 20 18 7
+2025-05-11 13:23
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-11 14:55
+Paluszki slone (30g)
+120 3 20 2
+2025-05-11 16:37
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-11 19:12
+Twarog z miodem
+220 18 18 7
+2025-05-12 08:09
+Jajecznica na masle
+320 20 2 26
+2025-05-12 09:55
+Banan
+110 1 25 0
+2025-05-12 12:28
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-12 13:50
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-12 15:19
+Baton proteinowy
+210 20 18 7
+2025-05-12 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-12 18:32
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-13 07:41
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-13 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-13 11:07
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-13 13:39
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-13 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-13 17:03
+Paluszki slone (30g)
+120 3 20 2
+2025-05-13 20:11
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-14 08:03
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-14 09:45
+Herbata z cytryna
+10 0 2 0
+2025-05-14 12:19
+Salatka grecka
+220 6 12 16
+2025-05-14 13:50
+Baton proteinowy
+210 20 18 7
+2025-05-14 15:44
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-14 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-14 18:27
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-14 08:03
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-14 09:45
+Herbata z cytryna
+10 0 2 0
+2025-05-14 12:19
+Salatka grecka
+220 6 12 16
+2025-05-14 13:50
+Baton proteinowy
+210 20 18 7
+2025-05-14 15:44
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-14 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-14 18:27
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-15 07:17
+Jajecznica na masle
+320 20 2 26
+2025-05-15 09:10
+Banan
+110 1 25 0
+2025-05-15 11:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-15 13:15
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-15 15:22
+Paluszki slone (30g)
+120 3 20 2
+2025-05-15 17:05
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-15 19:40
+Twarog z miodem
+220 18 18 7
+2025-05-16 08:12
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-16 10:00
+Baton proteinowy
+210 20 18 7
+2025-05-16 12:25
+Salatka grecka
+220 6 12 16
+2025-05-16 14:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-16 16:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-16 18:45
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-17 07:55
+Tost z awokado i jajkiem
+350 13 32 18
+2025-05-17 09:40
+Herbata z cytryna
+10 0 2 0
+2025-05-17 11:15
+Baton proteinowy
+210 20 18 7
+2025-05-17 13:23
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-17 15:00
+Paluszki slone (30g)
+120 3 20 2
+2025-05-17 16:37
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-17 19:12
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-18 08:09
+Jajecznica na masle
+320 20 2 26
+2025-05-18 09:55
+Banan
+110 1 25 0
+2025-05-18 12:28
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-18 13:50
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-18 15:19
+Baton proteinowy
+210 20 18 7
+2025-05-18 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-18 18:32
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-19 07:41
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-19 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-19 11:07
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-19 13:39
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-19 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-19 17:03
+Paluszki slone (30g)
+120 3 20 2
+2025-05-19 20:11
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-20 08:03
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-20 09:45
+Herbata z cytryna
+10 0 2 0
+2025-05-20 12:19
+Salatka grecka
+220 6 12 16
+2025-05-20 13:50
+Baton proteinowy
+210 20 18 7
+2025-05-20 15:44
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-20 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-20 18:27
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-21 07:17
+Jajecznica na masle
+320 20 2 26
+2025-05-21 09:10
+Banan
+110 1 25 0
+2025-05-21 11:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-21 13:15
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-21 15:22
+Paluszki slone (30g)
+120 3 20 2
+2025-05-21 17:05
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-21 19:40
+Twarog z miodem
+220 18 18 7
+2025-05-22 08:12
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-22 10:00
+Baton proteinowy
+210 20 18 7
+2025-05-22 12:25
+Salatka grecka
+220 6 12 16
+2025-05-22 14:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-22 16:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-22 18:45
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-23 07:55
+Tost z awokado i jajkiem
+350 13 32 18
+2025-05-23 09:40
+Herbata z cytryna
+10 0 2 0
+2025-05-23 11:15
+Baton proteinowy
+210 20 18 7
+2025-05-23 13:23
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-23 15:00
+Paluszki slone (30g)
+120 3 20 2
+2025-05-23 16:37
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-23 19:12
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-24 08:09
+Jajecznica na masle
+320 20 2 26
+2025-05-24 09:55
+Banan
+110 1 25 0
+2025-05-24 12:28
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-24 13:50
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-24 15:19
+Baton proteinowy
+210 20 18 7
+2025-05-24 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-24 18:32
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-25 07:41
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-25 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-25 11:07
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-25 13:39
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-25 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-25 17:03
+Paluszki slone (30g)
+120 3 20 2
+2025-05-25 20:11
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-26 08:03
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-26 09:45
+Herbata z cytryna
+10 0 2 0
+2025-05-26 12:19
+Salatka grecka
+220 6 12 16
+2025-05-26 13:50
+Baton proteinowy
+210 20 18 7
+2025-05-26 15:44
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-26 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-26 18:27
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-27 07:17
+Jajecznica na masle
+320 20 2 26
+2025-05-27 09:10
+Banan
+110 1 25 0
+2025-05-27 11:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-27 13:15
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-27 15:22
+Paluszki slone (30g)
+120 3 20 2
+2025-05-27 17:05
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-27 19:40
+Twarog z miodem
+220 18 18 7
+2025-05-28 08:12
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-28 10:00
+Baton proteinowy
+210 20 18 7
+2025-05-28 12:25
+Salatka grecka
+220 6 12 16
+2025-05-28 14:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-28 16:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-28 18:45
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-29 07:55
+Tost z awokado i jajkiem
+350 13 32 18
+2025-05-29 09:40
+Herbata z cytryna
+10 0 2 0
+2025-05-29 11:15
+Baton proteinowy
+210 20 18 7
+2025-05-29 13:23
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-29 15:00
+Paluszki slone (30g)
+120 3 20 2
+2025-05-29 16:37
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-29 19:12
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-05-30 08:09
+Jajecznica na masle
+320 20 2 26
+2025-05-30 09:55
+Banan
+110 1 25 0
+2025-05-30 12:28
+Kanapka z szynka i serem
+280 14 32 10
+2025-05-30 13:50
+Czekolada gorzka (20g)
+110 2 10 7
+2025-05-30 15:19
+Baton proteinowy
+210 20 18 7
+2025-05-30 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-30 18:32
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-05-31 07:41
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-05-31 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-05-31 11:07
+Jogurt naturalny z musli
+190 8 28 4
+2025-05-31 13:39
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-05-31 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-05-31 17:03
+Paluszki slone (30g)
+120 3 20 2
+2025-05-31 20:11
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-01 07:18
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-01 09:55
+Banan
+110 1 25 0
+2025-06-01 11:20
+Kawa z mlekiem
+60 3 8 2
+2025-06-01 13:12
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-01 15:30
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-01 17:05
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-01 19:40
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-02 08:07
+Jajecznica na masle
+320 20 2 26
+2025-06-02 09:45
+Herbata z cytryna
+10 0 2 0
+2025-06-02 12:19
+Salatka grecka
+220 6 12 16
+2025-06-02 13:50
+Baton proteinowy
+210 20 18 7
+2025-06-02 15:44
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-02 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-02 18:27
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-03 07:17
+Tost z awokado i jajkiem
+350 13 32 18
+2025-06-03 09:10
+Banan
+110 1 25 0
+2025-06-03 11:30
+Kawa z mlekiem
+60 3 8 2
+2025-06-03 13:15
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-03 15:22
+Paluszki slone (30g)
+120 3 20 2
+2025-06-03 17:05
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-03 19:40
+Twarog z miodem
+220 18 18 7
+2025-06-04 08:12
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-04 10:00
+Baton proteinowy
+210 20 18 7
+2025-06-04 12:25
+Salatka grecka
+220 6 12 16
+2025-06-04 14:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-04 16:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-04 18:45
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-05 07:55
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-05 09:40
+Herbata z cytryna
+10 0 2 0
+2025-06-05 11:15
+Baton proteinowy
+210 20 18 7
+2025-06-05 13:23
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-05 15:00
+Paluszki slone (30g)
+120 3 20 2
+2025-06-05 16:37
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-05 19:12
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-06 08:09
+Jajecznica na masle
+320 20 2 26
+2025-06-06 09:55
+Banan
+110 1 25 0
+2025-06-06 12:28
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-06 13:50
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-06 15:19
+Baton proteinowy
+210 20 18 7
+2025-06-06 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-06 18:32
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-07 07:41
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-07 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-06-07 11:07
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-07 13:39
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-07 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-07 17:03
+Paluszki slone (30g)
+120 3 20 2
+2025-06-07 20:11
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-08 08:03
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-08 09:45
+Herbata z cytryna
+10 0 2 0
+2025-06-08 12:19
+Salatka grecka
+220 6 12 16
+2025-06-08 13:50
+Baton proteinowy
+210 20 18 7
+2025-06-08 15:44
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-08 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-08 18:27
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-09 07:17
+Jajecznica na masle
+320 20 2 26
+2025-06-09 09:10
+Banan
+110 1 25 0
+2025-06-09 11:30
+Kawa z mlekiem
+60 3 8 2
+2025-06-09 13:15
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-09 15:22
+Paluszki slone (30g)
+120 3 20 2
+2025-06-09 17:05
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-09 19:40
+Twarog z miodem
+220 18 18 7
+2025-06-10 08:12
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-10 10:00
+Baton proteinowy
+210 20 18 7
+2025-06-10 12:25
+Salatka grecka
+220 6 12 16
+2025-06-10 14:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-10 16:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-10 18:45
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-11 07:55
+Tost z awokado i jajkiem
+350 13 32 18
+2025-06-11 09:40
+Herbata z cytryna
+10 0 2 0
+2025-06-11 11:15
+Baton proteinowy
+210 20 18 7
+2025-06-11 13:23
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-11 15:00
+Paluszki slone (30g)
+120 3 20 2
+2025-06-11 16:37
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-11 19:12
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-12 08:09
+Jajecznica na masle
+320 20 2 26
+2025-06-12 09:55
+Banan
+110 1 25 0
+2025-06-12 12:28
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-12 13:50
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-12 15:19
+Baton proteinowy
+210 20 18 7
+2025-06-12 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-12 18:32
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-13 07:41
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-13 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-06-13 11:07
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-13 13:39
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-13 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-13 17:03
+Paluszki slone (30g)
+120 3 20 2
+2025-06-13 20:11
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-14 08:03
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-14 09:45
+Herbata z cytryna
+10 0 2 0
+2025-06-14 12:19
+Salatka grecka
+220 6 12 16
+2025-06-14 13:50
+Baton proteinowy
+210 20 18 7
+2025-06-14 15:44
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-14 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-14 18:27
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-15 07:22
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-15 09:50
+Banan
+110 1 25 0
+2025-06-15 11:10
+Kawa z mlekiem
+60 3 8 2
+2025-06-15 13:18
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-15 15:35
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-15 17:00
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-15 19:45
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-16 08:05
+Jajecznica na masle
+320 20 2 26
+2025-06-16 09:40
+Herbata z cytryna
+10 0 2 0
+2025-06-16 12:30
+Salatka grecka
+220 6 12 16
+2025-06-16 13:55
+Baton proteinowy
+210 20 18 7
+2025-06-16 15:20
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-16 16:50
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-16 18:35
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-17 07:40
+Tost z awokado i jajkiem
+350 13 32 18
+2025-06-17 09:20
+Banan
+110 1 25 0
+2025-06-17 11:15
+Kawa z mlekiem
+60 3 8 2
+2025-06-17 13:10
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-17 15:00
+Paluszki slone (30g)
+120 3 20 2
+2025-06-17 16:30
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-17 19:20
+Twarog z miodem
+220 18 18 7
+2025-06-18 08:10
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-18 09:55
+Baton proteinowy
+210 20 18 7
+2025-06-18 12:15
+Salatka grecka
+220 6 12 16
+2025-06-18 13:40
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-18 15:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-18 17:00
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-19 07:55
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-19 09:35
+Herbata z cytryna
+10 0 2 0
+2025-06-19 11:10
+Baton proteinowy
+210 20 18 7
+2025-06-19 13:25
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-19 15:05
+Paluszki slone (30g)
+120 3 20 2
+2025-06-19 16:45
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-19 19:10
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-20 08:12
+Jajecznica na masle
+320 20 2 26
+2025-06-20 09:50
+Banan
+110 1 25 0
+2025-06-20 12:30
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-20 13:55
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-20 15:20
+Baton proteinowy
+210 20 18 7
+2025-06-20 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-20 18:30
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-21 07:35
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-21 09:10
+Kawa z mlekiem
+60 3 8 2
+2025-06-21 11:00
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-21 13:20
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-21 15:15
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-21 17:00
+Paluszki slone (30g)
+120 3 20 2
+2025-06-21 19:30
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-22 08:00
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-22 09:45
+Herbata z cytryna
+10 0 2 0
+2025-06-22 12:10
+Salatka grecka
+220 6 12 16
+2025-06-22 13:50
+Baton proteinowy
+210 20 18 7
+2025-06-22 15:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-22 16:55
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-22 18:40
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-23 07:20
+Jajecznica na masle
+320 20 2 26
+2025-06-23 09:30
+Banan
+110 1 25 0
+2025-06-23 11:15
+Kawa z mlekiem
+60 3 8 2
+2025-06-23 13:10
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-23 15:00
+Paluszki slone (30g)
+120 3 20 2
+2025-06-23 16:30
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-23 19:20
+Twarog z miodem
+220 18 18 7
+2025-06-24 08:10
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-24 09:55
+Baton proteinowy
+210 20 18 7
+2025-06-24 12:15
+Salatka grecka
+220 6 12 16
+2025-06-24 13:40
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-24 15:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-24 17:00
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-25 07:55
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-25 09:35
+Herbata z cytryna
+10 0 2 0
+2025-06-25 11:10
+Baton proteinowy
+210 20 18 7
+2025-06-25 13:25
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-25 15:05
+Paluszki slone (30g)
+120 3 20 2
+2025-06-25 16:45
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-25 19:10
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-26 08:12
+Jajecznica na masle
+320 20 2 26
+2025-06-26 09:50
+Banan
+110 1 25 0
+2025-06-26 12:30
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-26 13:55
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-26 15:20
+Baton proteinowy
+210 20 18 7
+2025-06-26 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-26 18:30
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-06-27 07:35
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-27 09:10
+Kawa z mlekiem
+60 3 8 2
+2025-06-27 11:00
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-27 13:20
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-27 15:15
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-27 17:00
+Paluszki slone (30g)
+120 3 20 2
+2025-06-27 19:30
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-28 08:12
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-06-28 09:55
+Baton proteinowy
+210 20 18 7
+2025-06-28 12:09
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-28 13:45
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-28 15:17
+Paluszki slone (30g)
+120 3 20 2
+2025-06-28 16:30
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-28 18:23
+Tost z awokado i jajkiem
+350 13 32 18
+2025-06-29 07:31
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-29 09:40
+Herbata z cytryna
+10 0 2 0
+2025-06-29 11:04
+Kawa z mlekiem
+60 3 8 2
+2025-06-29 13:33
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-06-29 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-06-29 17:09
+Paluszki slone (30g)
+120 3 20 2
+2025-06-29 20:02
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-06-30 08:08
+Jajecznica na masle
+320 20 2 26
+2025-06-30 09:55
+Banan
+110 1 25 0
+2025-06-30 12:36
+Kanapka z szynka i serem
+280 14 32 10
+2025-06-30 13:50
+Czekolada gorzka (20g)
+110 2 10 7
+2025-06-30 15:11
+Baton proteinowy
+210 20 18 7
+2025-06-30 16:40
+Jogurt naturalny z musli
+190 8 28 4
+2025-06-30 18:41
+Makaron z pesto i kurczakiem
+600 32 70 20
+2025-07-01 07:44
+Owsianka z bananem i orzechami
+410 12 60 13
+2025-07-01 09:30
+Kawa z mlekiem
+60 3 8 2
+2025-07-01 11:01
+Jogurt naturalny z musli
+190 8 28 4
+2025-07-01 13:32
+Kurczak z ryzem i warzywami
+540 38 65 12
+2025-07-01 15:10
+Orzechy wloskie (30g)
+200 5 4 19
+2025-07-01 17:07
+Baton proteinowy
+210 20 18 7
+2025-07-01 20:00
+Serek wiejski z rzodkiewka
+140 13 4 7
+2025-07-01 19:03
+Jedzonko nowe
+304 4 7 2
+2025-07-01 19:22
+Kawa z mlekiem
+60 8 2 5
+2025-07-01 19:22
+Paluszki slone (30g)
+120 3 20 2
+2025-07-01 19:51
+Serek topiony (30g)
+90 3 2 7
+2025-07-01 19:55
+Snickers
+200 1 20 23
